@@ -1,0 +1,1 @@
+var json_GudangRitaRitelindo_20 = {"type":"FeatureCollection","name":"GudangRitaRitelindo_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Gudang Rita Ritelindo"},"geometry":{"type":"Point","coordinates":[109.260191286149208,-7.427097524301619]}}]}

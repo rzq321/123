@@ -1,0 +1,1 @@
+var json_OYO_19 = {"type":"FeatureCollection","name":"OYO_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"OYO \"HotelRodaMas\""},"geometry":{"type":"Point","coordinates":[109.253869092992161,-7.422804099587414]}}]}
